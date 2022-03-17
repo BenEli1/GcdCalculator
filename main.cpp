@@ -34,7 +34,7 @@ catch(int){
     cin >> dec;
 }
     cout << "\nGoodbye!" << endl;
-    Sleep(2000);
+    Sleep(1000);
 
 return 0;
 }
