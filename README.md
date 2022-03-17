@@ -1,2 +1,2 @@
 # GcdCalculator
-Basic GCD calculator used for Algebraic structures course. 
+Basic GCD\LCM calculator used for Algebraic structures course. 
