@@ -11,13 +11,13 @@ int main() {
         try {
             cout << "please enter the first number" << endl;
             scanf("%lld",&a);
-            if (a > LONG_LONG_MAX)
+            if (a >= LONG_LONG_MAX)
                 throw 0;
             if (a < 0)
                 throw 0;
             cout << "please enter the second number" << endl;
             scanf("%lld",&b);
-            if (b > LONG_LONG_MAX)
+            if (b >= LONG_LONG_MAX)
                 throw 0;
             if (b < 0)
                 throw 0;
