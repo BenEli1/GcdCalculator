@@ -2,8 +2,8 @@
 #include <iostream>
 using namespace std;
 static long long GCDCalc(long long a,long long b){
-    int bigger=myMax(a,b);
-    int smaller=myMin(a,b);
+    long long bigger=myMax(a,b);
+    long long smaller=myMin(a,b);
     if(bigger==0)
         return smaller;
     if(smaller==0)
