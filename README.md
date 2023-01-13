@@ -7,10 +7,6 @@ To use the calculator, simply run the program and follow the prompts. The progra
 # Installation
 To run this program, you will need a C++ compiler, such as GCC or Visual Studio. You can also use an IDE such as Code::Blocks or Visual Studio Code.
 
-The code also include a header file "windows.h" which is a Microsoft-specific header file, so this code is only compatible with Windows.
-
 # Error Handling
 The code includes try-catch block for handling the overflow/underflow error. It will display an error message if the input value exceeds the range of long long int.
 
-# Support
-If you have any issues or questions about the calculator, please open an issue in the GitHub repository or contact the developer directly.
